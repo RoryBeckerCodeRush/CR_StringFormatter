@@ -1,4 +1,4 @@
-# 'Reverse Boolean' for CodeRush #
+# 'String Formatter' for CodeRush #
 
 This plugin provides 3 enhancements:
 
