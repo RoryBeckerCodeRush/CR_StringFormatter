@@ -14,7 +14,7 @@ Simply place the caret on a String.Format token (ie {0}) then press the Tab key.
 
 ![](Screenshots/TabToNextStringToken.gif)
 
-### CodeIssue - Format Item Index Too Large ### 
+### CodeIssue - Format Item Index Too Large ###
 
 This CodeIssue highlights when the index of a token in a string.Format string references an argument which is not present.
 
